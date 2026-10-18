@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "reyway"
-    },
-    "records": {
-        "CNAME": "reyway.github.io"
-    }
+  "owner": {
+    "username": "reyway"
+  },
+  "records": {
+    "CNAME": "reyway.github.io"
+  }
 }
